@@ -2,8 +2,8 @@
 
 void main()
 {
-	Console.WriteLine("Hello world!");
-	Console.WriteLine("I am programming in C#!");
+	Console.WriteLine("Hello world!");//Outputs "Hello world"
+	Console.WriteLine("I am programming in C#!");//Outputs "I am programming in C#"
 
 	//Console.WriteLine is used to output text. It automatically creates a new line.
 	//Console.Write is also used to output text. It does NOT create a new line.
